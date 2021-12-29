@@ -1,0 +1,41 @@
+#MainPictureDes
+{
+	border-style:solid;
+	height:60%;
+	width:60%;
+	position:absolute;
+	top:8%;
+	background-color:white;
+	font-family:Arial;
+	font-size:25px;
+	color:navy;
+	
+	
+	
+	
+}
+
+
+#MainPicture
+{
+  border-style:solid;
+  height:60%;
+  width:40%;
+  position:absolute;
+  top:8%;
+  left:60%;
+  background-image:url(images/rhema-kallianpur-uocSnWMhnAs-unsplash.jpg);
+  background-size:contain;
+		
+}
+
+
+#Area2
+{
+	background-color:#e1f4f5;
+	
+	
+	
+	
+}
+
