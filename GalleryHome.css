@@ -79,55 +79,16 @@ footer ul li{
 
 .Area1Image1
 {
-  background-color:#D6F0FF;
-  position:fixed;
-  top:114%;
-  width:50%;
-  height:62%;
-  left:0%;
-  margin-top:0%;
-  margin-right:0%;
-  
-	
- 
-	
-	
-	
-}
-
-
-.Area1Image1Description
-{
-  background-color:#D6F0FF;
+  background-color:#F0F8FF;
   position:absolute;
-  top:114%;
+  top:129%;
   width:50%;
-  height:55%;
-  right:0%;
-  
-  margin-top:0%;
-  margin-right:0%;
-  
-	
- 
-	
-	
-	
-}
-
-
-
-.Area1Image1
-{
-  background-color:#f7fafa;
-  position:absolute;
-  top:115%;
-  width:60%;
   height:65%;
   left:0%;
-  
   margin-top:0%;
   margin-right:0%;
+  
+	
  
 	
 	
@@ -135,11 +96,13 @@ footer ul li{
 }
 
 
+
+
 .Area1Image1Description
 {
-  background-color:#f7fafa;
+  background-color:#F0F8FF;
   position:absolute;
-  top:115%;
+  top:129%;
   width:50%;
   height:65%;
   right:0%;
@@ -152,9 +115,9 @@ footer ul li{
 
 .Area1Image2
 {
-  background-color:#87dfe0;
+  background-color:#A1CAF1;
   position:absolute;
-  top:179%;
+  top:194%;
   width:50%;
   height:65%;
   right:0%;
@@ -171,9 +134,9 @@ footer ul li{
 
 .Area1Image2Description
 {
-  background-color:#87dfe0;
+  background-color:#A1CAF1;
   position:absolute;
-  top:179%;
+  top:194%;
   width:50%;
   height:65%;
   left:0%;
@@ -190,9 +153,9 @@ footer ul li{
 
 .Area1Image3 
 {
-  background-color:#f7f9ff;
+  background-color:#F0F8FF;
   position:absolute;
-  top:244%;
+  top:255%;
   width:50%;
   height:65%;
   left:0%;
@@ -208,9 +171,9 @@ footer ul li{
 
 .Area1Image3Description
 {
-  background-color:#f7f9ff;
+  background-color:#F0F8FF;
   position:absolute;
-  top:244%;
+  top:255%;
   width:50%;
   height:65%;
   right:0%;
@@ -227,7 +190,7 @@ footer ul li{
 #GalleryWall
 {
 	position:absolute;
-	top:309%;
+	top:319%;
 	width:100%;
 	height:80%;
 	margin-top:0%;	
@@ -243,7 +206,7 @@ footer ul li{
 #GalleryWallRoomImage
 {
 	position:absolute;
-	top:35%;
+	top:38%;
 	left:3%;
 	width:25%;
 	height:45%;
@@ -263,7 +226,7 @@ footer ul li{
 #GalleryWallConferenceImage
 {
 	position:absolute;
-	top:24%;
+	top:27%;
 	left:31%;
 	width:16%;
 	height:65%;
@@ -282,7 +245,7 @@ footer ul li{
 #GalleryWallFacilitiesImage
 {
 	position:absolute;
-	top:28%;
+	top:31%;
 	left:51%;
 	width:25%;
 	height:45%;
@@ -301,7 +264,7 @@ footer ul li{
 #GalleryWallEventsImage
 {
 	position:absolute;
-	top:24%;
+	top:27%;
 	left:80%;
 	width:16%;
 	height:65%;
@@ -341,7 +304,7 @@ footer ul li{
 #PicturePattern
 {
 	position:absolute;
-	top:389%;
+	top:399%;
 	width:100%;
 	height:250%;
 	margin-top:0%;	
@@ -357,18 +320,13 @@ footer ul li{
   
   position:absolute;
   height:80%;
-  width:70%;
+  width:80%;
   background-size:contain;
   top:8%;
   left:5%;
   
+
   
-	
-	
-	
-	
-	
-	
 }
 
 #Area1Image2i1
@@ -379,6 +337,7 @@ footer ul li{
   background-size:contain;
   top:8%;
   left:0%;
+  
 	
 	
 	
@@ -398,24 +357,102 @@ footer ul li{
 }
 
 
-#Area1Image3i
+#Area1Image3i1
 {
   
   position:absolute;
-  height:80%;
-  width:75%;
+  height:40%;
+  width:30%;
   background-size:contain;
   top:8%;
-  left:5%;
+  left:4%;
+  border-radius:10%;
   
   
-	
-	
-	
-	
-	
+  
 	
 }
+
+
+
+#Area1Image3i2
+{
+  
+  position:absolute;
+  height:40%;
+  width:30%;
+  background-size:contain;
+  top:8%;
+  left:35%;
+  border-radius:10%;
+ 
+  
+  
+	
+}
+
+#Area1Image3i3
+{
+  
+  position:absolute;
+  height:45%;
+  width:30%;
+  background-size:fill;
+  top:50%;
+  left:4%;
+   border-radius:10%;
+  
+  
+	
+}
+
+#Area1Image3i4
+{
+  
+  position:absolute;
+  height:45%;
+  width:30%;
+  background-size:fill;
+  top:50%;
+  left:35%;
+   border-radius:10%;
+  
+  
+	
+}
+
+
+#Area1Image3i5
+{
+  
+  position:absolute;
+  height:87%;
+  width:45%;
+  background-size:contain;
+  top:8%;
+  left:66%;
+ 
+  
+  
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #PicturePatterndes
 {
