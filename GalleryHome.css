@@ -1,0 +1,487 @@
+#NavBar
+{
+	position:absolute;
+	top:0%;
+	width:100%;
+	height:8%;
+	background-color:#2a2740;
+
+	margin-top:0%;
+	
+}
+
+
+*{
+    font-family:"SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li a{
+ color: white!important;
+ text-decoration: none;
+ margin-left: 20px;
+}
+
+.navbar li a:hover{
+   color: rgb(199, 175, 175)!important;
+}
+
+/* Footer */
+.rounded-circle{
+  font-size: 20px;
+  border: none;
+  background-color: #bb7c62;
+  
+}
+
+.social-media a:hover{
+  background-color: #c5907a ;
+}
+
+footer ul{
+ margin-top: 0;
+ padding: 0;
+ list-style: none;
+ font-size: 18px;
+ line-height: 1.6;
+ margin-bottom: 35px;
+ text-align: center;
+}
+
+footer ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+footer ul li a:hover{
+  color: #bb7c62;
+}
+
+footer ul li{
+  display: inline-block;
+  padding: 0 15px;
+}
+
+.underfooter{
+  background-color: #c0866e;
+  padding-top: 10px;
+  padding-bottom: 1px;
+  text-align: center;
+  color: #fff;
+ font-size: 10px;
+}
+
+
+
+
+
+
+.Area1Image1
+{
+  background-color:#ffffff;
+  position:absolute;
+  top:120.5%;
+  width:45%;
+  height:80%;
+  left:0%;
+  margin-top:0%;
+  margin-right:0%;
+  
+	
+ 
+	
+	
+	
+}
+
+
+
+
+.Area1Image1Description
+{
+  background-color:#FFFFFF;
+  position:absolute;
+  top:120.5%;
+  width:55%;
+  height:80%;
+  right:0%;
+  border-left-style:groove;
+  border-color:#ff6666;
+  border-width:thin;
+  margin-top:0%;
+  margin-right:0%;
+ 
+}
+
+
+.Area1Image2
+{
+  background-color:#152042;
+  position:absolute;
+  top:194%;
+  width:50%;
+  height:65%;
+  right:0%;
+  
+  margin-top:0%;
+  margin-left:0%;
+	
+ 
+	
+	
+	
+}
+
+
+.Area1Image2Description
+{
+  background-color:#152042;
+  position:absolute;
+  top:194%;
+  width:50%;
+  height:65%;
+  left:0%;
+ 
+  margin-top:0%;
+  margin-right:0%;
+	
+ 
+	
+	
+	
+}
+
+
+.Area1Image3 
+{
+  background-color:#FFFFFF;
+  position:absolute;
+  top:255%;
+  width:50%;
+  height:65%;
+  left:0%;
+  
+  margin-top:0%;
+  margin-right:0%;
+ 
+	
+	
+	
+}
+
+
+.Area1Image3Description
+{
+  background-color:#FFFFFF;
+  position:absolute;
+  top:255%;
+  width:50%;
+  height:65%;
+  right:0%;
+  
+  margin-top:0%;
+  margin-right:0%;
+ 
+	
+	
+	
+}
+
+
+#GalleryWall
+{
+	position:absolute;
+	top:319%;
+	width:100%;
+	height:80%;
+	margin-top:0%;	
+	background-color:#152042;
+	
+	
+}
+
+
+
+
+
+#GalleryWallRoomImage
+{
+	position:absolute;
+	top:35%;
+	left:3%;
+	width:25%;
+	height:45%;
+	margin-top:0%;	
+	border-style:solid;
+	border-color:white;
+	border-width:4%;
+	background-image:url(images/rhema-kallianpur-uocSnWMhnAs-unsplash.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	
+	
+	
+}
+
+
+#GalleryWallConferenceImage
+{
+	position:absolute;
+	top:24%;
+	left:31%;
+	width:16%;
+	height:65%;
+	margin-top:0%;	
+	border-style:solid;
+	border-color:white;
+	border-width:4%;
+	background-image:url(images/evelina-friman-hw_sKmjb0ns-unsplash.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	
+	
+	
+}
+
+#GalleryWallFacilitiesImage
+{
+	position:absolute;
+	top:28%;
+	left:51%;
+	width:25%;
+	height:45%;
+	margin-top:0%;	
+	border-style:solid;
+	border-color:white;
+	border-width:4%;
+	background-image:url(images/oleksii-ivanov-aHISuLxgCUE-unsplash.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	
+	
+	
+}
+
+#GalleryWallEventsImage
+{
+	position:absolute;
+	top:24%;
+	left:80%;
+	width:16%;
+	height:65%;
+	margin-top:0%;	
+	border-style:solid;
+	border-color:white;
+	border-width:4%;
+	background-image:url(images/zuza-galczynska-c5_eQi4rrjA-unsplash.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#PicturePattern
+{
+	position:absolute;
+	top:399%;
+	width:100%;
+	height:250%;
+	margin-top:0%;	
+	background-color:#FFFFFF;
+	
+}
+
+
+
+
+#Area1Image1i
+{
+  
+  position:absolute;
+  height:70%;
+  width:85%;
+  background-size:contain;
+  top:8%;
+  left:8%;
+  
+
+  
+}
+
+#Area1Image2i1
+{
+  position:absolute;
+  height:60%;
+  width:60%;
+  background-size:contain;
+  top:8%;
+  left:0%;
+  border-style:solid;
+  border-color:white;
+  border-width:4%;
+  
+	
+	
+	
+}
+
+#Area1Image2i2
+{
+  position:absolute;
+  height:60%;
+  width:60%;
+  background-size:contain;
+  top:30%;
+  left:36%;
+   border-style:solid;
+  border-color:white;
+  border-width:4%;
+  
+	
+	
+	
+}
+
+
+#Area1Image3i1
+{
+  
+  position:absolute;
+  height:40%;
+  width:30%;
+  background-size:contain;
+  top:8%;
+  left:4%;
+  border-radius:10%;
+  
+  
+  
+	
+}
+
+
+
+#Area1Image3i2
+{
+  
+  position:absolute;
+  height:40%;
+  width:30%;
+  background-size:contain;
+  top:8%;
+  left:35%;
+  border-radius:10%;
+ 
+  
+  
+	
+}
+
+#Area1Image3i3
+{
+  
+  position:absolute;
+  height:45%;
+  width:30%;
+  background-size:fill;
+  top:50%;
+  left:4%;
+  border-radius:10%;
+  
+  
+	
+}
+
+#Area1Image3i4
+{
+  
+  position:absolute;
+  height:45%;
+  width:30%;
+  background-size:fill;
+  top:50%;
+  left:35%;
+   border-radius:10%;
+  
+  
+	
+}
+
+
+#Area1Image3i5
+{
+  
+  position:absolute;
+  height:87%;
+  width:45%;
+  background-size:contain;
+  top:8%;
+  left:66%;
+ 
+  
+  
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#PicturePatterndes
+{
+  position:absolute;
+  height:40%;
+  width:50%;
+  left:23%;
+  right:8%;
+  background-size:contain;
+  border-style:;
+	
+	
+	
+	
+}
+
+.PicturePattern
+{
+  border-style:solid;
+  	
+	
+	
+}
